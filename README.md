@@ -1,4 +1,6 @@
 cobalt-vb-highlighting
 ======================
 
-a rough VS equivalent of the gedit cobalt syntax highlighting theme
+A rough VS equivalent of the gedit cobalt syntax highlighting theme
+
+Also, terminus.fon because reasons
